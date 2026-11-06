@@ -1,0 +1,41 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+body {
+  background-color: #fafafa;
+  color: #333;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+section {
+  padding: 0px 20px;
+}
+
+h1 {
+  color: #b8962e;
+}
+
+.hero {
+  text-align: center;
+}
+
+img {
+  border-radius: 12px;
+}
+p {
+  font-size: 17px;
+  line-height: 1.6;
+}
+.contact {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: #b8962e;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+}
+h2 {
+  margin-bottom: 8px;
+}
